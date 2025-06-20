@@ -1,9 +1,6 @@
 # UPX_GUIgen
 UPX命令构造工具，懒狗专用
 UPX GUI 工具
-Python
-PyQt5
-License
 
 UPX GUI 工具是一个基于 PyQt5 开发的图形界面应用程序，用于简化 UPX（Ultimate Packer for eXecutables）的使用。UPX 是一个开源的可执行文件压缩工具，而本工具则提供了一个直观的界面来构建和执行 UPX 命令。
 
